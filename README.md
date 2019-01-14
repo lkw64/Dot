@@ -20,12 +20,12 @@ Dot("dot", {*****});
 </script>
 ```
 
-###3、DEMO
+### 3、DEMO
 [点击运行demo](http://codepen.io/supperjet/pen/vyMKWO)
 
 ![](demoImgs/demo.png)
 
-###4、Configure
+### 4、Configure
 |   属性  |   类型  | 默认值 |   描述   |
 |--------|-------- |-------|-------- |
 |cW| Number| 1367  |canvas宽度|
@@ -44,7 +44,7 @@ Dot("dot", {*****});
 |isWallCollisionTest|  Boolean | true  | 是否与边界碰撞检测|
 |isBallCollisionTest|  Boolean | true  | 球体间是否发生碰撞检测|
 
-###5、Supports browser
+### 5、Supports browser
 - IE 10+
 - Chrome
 - Firefox
